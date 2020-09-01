@@ -13,3 +13,5 @@ wget -qO- https://api.github.com/repos/donwa/gclone/releases/latest \
 chmod 0755 ${CLDBIN}
 
 gclone version
+
+echo "Gclone satisfactoriamente instaladado"
