@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/arlessweschler/gclone_fclone_install/mast
 For Android-Termux
 
 ```
-wget https://raw.githubusercontent.com/arlessweschler/gclone_fclone_install/master/gclone.sh && bash gclone.sh
+wget https://raw.githubusercontent.com/arlessweschler/gclone_fclone_install/master/gclonetermux.sh && bash gclonetermux.sh
 ```
 ![](termux.png)
 
