@@ -4,7 +4,7 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-CLDBIN=/usr/bin/fclone
+CLDBIN=/data/data/com.termux/files/usr/bin/fclone
 OSARCH=$(uname -m)
 BINTAG=linux-arm64
 
